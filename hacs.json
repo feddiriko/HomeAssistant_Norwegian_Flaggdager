@@ -1,0 +1,12 @@
+{
+  "name": "Norske Flaggdager",
+  "content_in_root": false,
+  "domain": "no_flaggdager",
+  "country": "no",
+  "homeassistant": "2023.0.0",
+  "render_readme": true,
+  "iot_class": "local_polling",
+  "version": "1.0.0",
+  "documentation": "https://github.com/<brukernavn>/no_flaggdager",
+  "source": "https://github.com/<brukernavn>/no_flaggdager"
+}

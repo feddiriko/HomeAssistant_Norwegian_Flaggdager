@@ -1,0 +1,48 @@
+# 🇳🇴 Norske Flaggdager – Home Assistant Integrasjon
+
+**Status: Beta – Testing encouraged**
+
+
+Denne integrasjonen legger til rette for norske offisielle flaggdager i Home Assistant. Den fungerer helt offline og oppretter to entiteter:
+
+- `binary_sensor.flaggdag`: `on` hvis det er en flaggdag i dag.
+- `sensor.flaggdag_navn`: Navnet på dagens flaggdag, hvis aktuelt.
+
+
+## 📦 Installasjon
+
+1. Kopier mappen `no_flaggdager` til `custom_components` i din Home Assistant-konfigurasjon.
+2. Start Home Assistant på nytt.
+3. Legg til integrasjonen via GUI: `Innstillinger` → `Enheter og tjenester` → `Legg til integrasjon` → `Norske Flaggdager`.
+
+## 📅 Liste over flaggdager
+
+1. januar – 1. nyttårsdag
+21. januar – H.K.H. Prinsesse Ingrid Alexandras fødselsdag
+6. februar – Samefolkets dag
+21. februar – H.M. Kong Harald Vs fødselsdag
+1. mai – Den internasjonale arbeiderdagen
+8. mai – Frigjøringsdagen 1945
+17. mai – Grunnlovsdagen
+7. juni – Unionsoppløsningen 1905
+4. juli – H.M. Dronning Sonjas fødselsdag
+20. juli – H.K.H. Kronprins Haakon Magnus' fødselsdag
+29. juli – Olsokdagen
+19. august – H.K.H. Kronprinsesse Mette-Marits fødselsdag
+25. desember – 1. juledag
+Bevegelige: 1. påskedag, 1. pinsedag
+
+## 📄 Lisens
+
+MIT
+
+Created by [@feddiriko](https://github.com/feddiriko)
+
+
+
+
+
+
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/feddiriko)

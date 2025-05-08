@@ -1,0 +1,10 @@
+{
+  "domain": "no_flaggdager",
+  "name": "Norske Flaggdager",
+  "version": "1.0.0",
+  "documentation": "https://github.com/dittbrukernavn/no_flaggdager",
+  "dependencies": [],
+  "codeowners": ["@dittbrukernavn"],
+  "requirements": [],
+  "config_flow": true
+}

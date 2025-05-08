@@ -1,0 +1,12 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Konfigurer Norske Flaggdager"
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Kun én konfigurasjon er tillatt."
+    }
+  }
+}
