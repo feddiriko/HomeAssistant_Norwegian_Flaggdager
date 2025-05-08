@@ -2,9 +2,9 @@
   "domain": "no_flaggdager",
   "name": "Norske Flaggdager",
   "version": "1.0.0",
-  "documentation": "https://github.com/dittbrukernavn/no_flaggdager",
+  "documentation": "https://github.com/feddiriko/HomeAssistant_Norwegian_Flaggdager",
   "dependencies": [],
-  "codeowners": ["@dittbrukernavn"],
+  "codeowners": ["@feddiriko"],
   "requirements": [],
   "config_flow": true
 }
