@@ -15,22 +15,6 @@ Denne integrasjonen legger til rette for norske offisielle flaggdager i Home Ass
 2. Start Home Assistant på nytt.
 3. Legg til integrasjonen via GUI: `Innstillinger` → `Enheter og tjenester` → `Legg til integrasjon` → `Norske Flaggdager`.
 
-## 📅 Liste over flaggdager
-
-1. januar – 1. nyttårsdag
-21. januar – H.K.H. Prinsesse Ingrid Alexandras fødselsdag
-6. februar – Samefolkets dag
-21. februar – H.M. Kong Harald Vs fødselsdag
-1. mai – Den internasjonale arbeiderdagen
-8. mai – Frigjøringsdagen 1945
-17. mai – Grunnlovsdagen
-7. juni – Unionsoppløsningen 1905
-4. juli – H.M. Dronning Sonjas fødselsdag
-20. juli – H.K.H. Kronprins Haakon Magnus' fødselsdag
-29. juli – Olsokdagen
-19. august – H.K.H. Kronprinsesse Mette-Marits fødselsdag
-25. desember – 1. juledag
-Bevegelige: 1. påskedag, 1. pinsedag
 
 ## 📄 Lisens
 
