@@ -10,10 +10,11 @@ class FlaggdagBinarySensor(CoordinatorEntity, BinarySensorEntity):
     def __init__(self, coordinator):
         super().__init__(coordinator)
         self._attr_name = "Flaggdag"
-        self._attr_unique_id = "no_flaggdager_flaggdag"'
+        self._attr_unique_id = "no_flaggdager_flaggdag"
         self._attr_icon = "mdi:flag"
 
     @property
     def is_on(self):
         return self.coordinator.data["is_flaggdag"]
+
 
