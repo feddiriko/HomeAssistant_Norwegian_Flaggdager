@@ -6,8 +6,9 @@
   "homeassistant": "2025.0.0",
   "render_readme": true,
   "iot_class": "local_polling",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "documentation": "https://github.com/feddiriko/HomeAssistant_Norwegian_Flaggdager",
   "source": "https://github.com/feddiriko/HomeAssistant_Norwegian_Flaggdager"
 }
+
 
